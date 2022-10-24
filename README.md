@@ -1,5 +1,3 @@
-![](https://avt-13.foto.mail.ru/mail/innabori/_avatar180?)
-
 # 👋 Hi, I’m @Inna949Festchuk
 - 👀 I’m Full Stack Developer
 - 🌱 I’m currently learning in "Netology"
