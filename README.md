@@ -13,6 +13,7 @@ If you can wait **and** not be tired by waiting,<br>
 Or being hated, don't give way to hating,<br>
 And yet don't look too good, nor talk too wise:<br>
 <details>
+  
 If you can dream—and **not** make dreams your **master**;<br>
 If you can think—and not make thoughts your aim;<br>
 If you can meet **with** Triumph and Disaster<br>
@@ -41,4 +42,5 @@ Yours is the Earth and everything that's in it,<br>
 And—which is more—you'll be a Man, my son!<br>
 
 *Rudyard Kipling*
+
 </details>
