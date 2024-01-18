@@ -1,9 +1,9 @@
-# 👋 **Hi, I’m @Inna949Festchuk**
+# 👋 **Hi, I’m Inna Festchuk**
 - 👀 **I’m Full Stack Developer**
 - 🌱 **I’m currently learning in "Netology"**
 - 💞️ **I’m looking to collaborate**
 - 📫 **How to reach me** innabori@mail.ru
-
+# IF
 **If** you can keep your head when all about you<br>
 Are losing theirs and blaming it on you,<br>
 If you can trust your**self** when all men doubt you,<br>
