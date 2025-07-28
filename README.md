@@ -1,2 +1,2 @@
 # **Python-разработчик. Бэкенд**
-**Мой e-mail** innabori@mail.ru
+**Мой e-mail** festchuk@yandex.ru
